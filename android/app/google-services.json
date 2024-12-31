@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954897568224",
+    "project_id": "tafweejhub-b8f42",
+    "storage_bucket": "tafweejhub-b8f42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954897568224:android:5c913ee1a600537037db85",
+        "android_client_info": {
+          "package_name": "com.example.TafweejHub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2B8wPa2aXe3ELaB1OMVHFZSBHw8sCVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

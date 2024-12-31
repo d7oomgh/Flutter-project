@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923228537616",
+    "project_id": "login-79bc4",
+    "storage_bucket": "login-79bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923228537616:android:b85bdc724bd5574b879b95",
+        "android_client_info": {
+          "package_name": "com.example.TafweejHub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_6u58c8HZDoLczB4Thj_6GqrNdaYO80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
